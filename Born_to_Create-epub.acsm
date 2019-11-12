@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fulfillmentToken fulfillmentType="buy" xmlns="http://ns.adobe.com/adept">
+<distributor>urn:uuid:00000000-0000-0000-0000-000000000001</distributor>
+<operatorURL>http://books.google.com/books/acs4/fulfillment</operatorURL>
+<expiration>2019-11-12T09:42:39-08:00</expiration>
+<transaction>ge:14f13b47-106d-9a37-cc3b-9cde64696010:1573579659951822</transaction>
+<userId>07635563934545367988</userId>
+<resourceItemInfo>
+<resource>urn:uuid:14f13b47-106d-9a37-cc3b-9cde64696010</resource>
+<resourceItem>1</resourceItem>
+<src>https://books.google.ca/books/download/Born_to_Create.epub?acsid=urn:uuid:14f13b47-106d-9a37-cc3b-9cde64696010&amp;output=acs4_book_bytes&amp;ar=85fa63bb21591d3e195b7ed16342e3dc</src>
+<downloadType>simple</downloadType>
+</resourceItemInfo>
+<hmac>z6tYOZTkCZ1NFqvWvHQGcBgTvb0=</hmac>
+</fulfillmentToken>
